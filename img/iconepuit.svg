@@ -1,0 +1,11 @@
+<svg id="f896ce50-dc4e-476d-8e62-46ce9050e1ce" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>places-31-IconePuit</title>
+  <polygon points="32.41 11 29.41 12 16.75 3 3.42 12 0.41 11 16.75 -0.33 32.41 11" style="fill: #945b3f"/>
+  <rect x="4" y="15" width="24" height="1" style="fill: #999"/>
+  <polygon points="9 20 6 20 6 12 9 10 9 20" style="fill: #999"/>
+  <polygon points="26 20 23 20 23 10 26 12 26 20" style="fill: #999"/>
+  <rect x="11" y="14" width="10" height="3" style="fill: #616161"/>
+  <rect x="28" y="15" width="1" height="4" style="fill: #999"/>
+  <rect x="29" y="17" width="1" height="3" transform="translate(11 48) rotate(-90)" style="fill: #999"/>
+  <rect x="4" y="21" width="24" height="11" style="fill: #999"/>
+</svg>

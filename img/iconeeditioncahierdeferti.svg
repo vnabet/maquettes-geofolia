@@ -1,0 +1,21 @@
+<svg id="e8d56c79-2cf6-41d9-8800-ba763c1ba00e" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>print-84-IconeEditionCahierDeFerti</title>
+  <g>
+    <path d="M2.19,31.51A1.71,1.71,0,0,1,.49,29.8V2.21A1.71,1.71,0,0,1,2.19.5H17.93a1.7,1.7,0,0,1,1.33.65l3.86,4.57a1.67,1.67,0,0,1,.37,1.06v23a1.72,1.72,0,0,1-1.71,1.71Z" style="fill: #fac262"/>
+    <path d="M17.93,1a1.22,1.22,0,0,1,1,.48L22.72,6a1.26,1.26,0,0,1,.27.76v23A1.21,1.21,0,0,1,21.78,31H2.19A1.21,1.21,0,0,1,1,29.8V2.21A1.21,1.21,0,0,1,2.19,1H17.93m0-1H2.19A2.21,2.21,0,0,0,0,2.21V29.8A2.21,2.21,0,0,0,2.19,32H21.78A2.21,2.21,0,0,0,24,29.8v-23A2.18,2.18,0,0,0,23.5,5.4L19.65.83A2.22,2.22,0,0,0,17.93,0Z" style="fill: #cea04e"/>
+  </g>
+  <polygon points="18.99 6 23.31 6 23.19 5.01 19.91 1.16 18.99 0.88 18.99 6" style="fill: #cea04e"/>
+  <g>
+    <rect x="4.38" y="9.38" width="22.23" height="14.23" rx="1.87" style="fill: #fff"/>
+    <path d="M24.75,9.77a1.48,1.48,0,0,1,1.48,1.48v10.5a1.48,1.48,0,0,1-1.48,1.48H6.25a1.48,1.48,0,0,1-1.48-1.48V11.25A1.48,1.48,0,0,1,6.25,9.77h18.5m0-.77H6.25A2.25,2.25,0,0,0,4,11.25v10.5A2.25,2.25,0,0,0,6.25,24h18.5A2.25,2.25,0,0,0,27,21.75V11.25A2.25,2.25,0,0,0,24.75,9Z" style="fill: #868789"/>
+  </g>
+  <rect x="14.99" y="9.77" width="1" height="13.47" style="fill: #ccc"/>
+  <line x1="7.34" y1="12.5" x2="12.69" y2="12.5" style="fill: none;stroke: #b8b7b8;stroke-linecap: round;stroke-linejoin: round"/>
+  <line x1="7.34" y1="14.5" x2="12.69" y2="14.5" style="fill: none;stroke: #b8b7b8;stroke-linecap: round;stroke-linejoin: round"/>
+  <line x1="7.34" y1="16.5" x2="12.69" y2="16.5" style="fill: none;stroke: #b8b7b8;stroke-linecap: round;stroke-linejoin: round"/>
+  <line x1="7.34" y1="18.5" x2="12.69" y2="18.5" style="fill: none;stroke: #b8b7b8;stroke-linecap: round;stroke-linejoin: round"/>
+  <line x1="7.34" y1="20.5" x2="12.69" y2="20.5" style="fill: none;stroke: #b8b7b8;stroke-linecap: round;stroke-linejoin: round"/>
+  <line x1="18.34" y1="12.5" x2="23.69" y2="12.5" style="fill: none;stroke: #b8b7b8;stroke-linecap: round;stroke-linejoin: round"/>
+  <line x1="18.34" y1="14.5" x2="19.69" y2="14.5" style="fill: none;stroke: #b8b7b8;stroke-linecap: round;stroke-linejoin: round"/>
+  <path d="M14.49,25.06c0,1.92,3.92,3.47,8.76,3.47S32,27,32,25.06,26,15,23.25,15,14.49,23.15,14.49,25.06Z" style="fill: #927768"/>
+</svg>

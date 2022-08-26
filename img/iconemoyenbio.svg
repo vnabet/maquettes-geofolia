@@ -1,0 +1,28 @@
+<svg id="fdec143f-6cf6-4559-9fd0-753511a75b34" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>phyto-92-IconeMoyenBio</title>
+  <rect x="17.33" y="14.34" width="14.67" height="14.67" style="fill: #f7ad1e"/>
+  <g>
+    <path d="M14.42,10.59c0-4-2.47-5.31-2.47-5.31l-1-.64H5.58l-1,.64S2.11,6.63,2.11,10.59c0,5.88,2.67,6.8,5.61,7.29V11.54a.67.67,0,1,1,1.33,0v6.29C11.9,17.17,14.42,16.47,14.42,10.59Z" style="fill: #c64c45"/>
+    <g>
+      <g>
+        <line x1="0.59" y1="8.35" x2="3.82" y2="7.58" style="fill: none;stroke: #c64c45;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.39204667284117px"/>
+        <line x1="0.86" y1="12.96" x2="2.71" y2="11.11" style="fill: none;stroke: #c64c45;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.39204667284117px"/>
+        <line x1="2.71" y1="16.41" x2="4.58" y2="14.53" style="fill: none;stroke: #c64c45;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.04403500463087px"/>
+        <line x1="15.95" y1="8.35" x2="12.72" y2="7.58" style="fill: none;stroke: #c64c45;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.39204667284117px"/>
+        <line x1="15.67" y1="12.96" x2="13.83" y2="11.11" style="fill: none;stroke: #c64c45;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.39204667284117px"/>
+        <line x1="13.83" y1="16.41" x2="11.95" y2="14.53" style="fill: none;stroke: #c64c45;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.04403500463087px"/>
+      </g>
+      <g>
+        <path d="M6.1,3.7A2.28,2.28,0,0,1,8.22,2,2.47,2.47,0,0,1,10.43,3.7Z" style="fill: #c64c45"/>
+        <line x1="7.49" y1="0.63" x2="7.49" y2="2.59" style="fill: none;stroke: #c64c45;stroke-linecap: round;stroke-linejoin: round;stroke-width: 0.696023336420583px"/>
+        <line x1="8.94" y1="0.63" x2="8.94" y2="2.59" style="fill: none;stroke: #c64c45;stroke-linecap: round;stroke-linejoin: round;stroke-width: 0.696023336420583px"/>
+      </g>
+    </g>
+    <circle cx="5.51" cy="7.5" r="0.96" style="fill: #333"/>
+    <circle cx="4.44" cy="10.82" r="0.96" style="fill: #333"/>
+    <circle cx="5.51" cy="14.14" r="0.96" style="fill: #333"/>
+    <circle cx="11.12" cy="7.5" r="0.96" style="fill: #333"/>
+    <circle cx="12.19" cy="10.82" r="0.96" style="fill: #333"/>
+    <circle cx="11.12" cy="14.14" r="0.96" style="fill: #333"/>
+  </g>
+</svg>

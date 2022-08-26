@@ -1,0 +1,13 @@
+<svg id="ee0876e7-6e7e-4587-94af-7908bfe56cf4" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>phone-72-IconeOptionSmartphone</title>
+  <g>
+    <path d="M22.13,24.94V27h-16V2h16V7.8l.41,0a9.12,9.12,0,0,1,1.59.15V4.21A4.22,4.22,0,0,0,19.92,0H8.35A4.23,4.23,0,0,0,4.13,4.21V27.79A4.23,4.23,0,0,0,8.35,32H19.92a4.22,4.22,0,0,0,4.21-4.21v-3a8.25,8.25,0,0,1-1.59.15Zm-8,6.06a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,14.13,31Z" style="fill: #565456"/>
+    <path d="M6.13,2V27h16V24.94a8.58,8.58,0,0,1,0-17.14V2Z" style="fill: #dadae4"/>
+    <circle cx="14.13" cy="29.5" r="1.5" style="fill: #a6a7a8"/>
+  </g>
+  <path d="M22.62,23.09a6.72,6.72,0,1,1,6.73-6.72,6.73,6.73,0,0,1-6.73,6.72" style="fill: #007bbd"/>
+  <polyline points="25.21 19.16 22.71 16.66 18.21 18.16" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+  <rect x="22.14" y="9.99" width="0.98" height="1.98" style="fill: #fff"/>
+  <rect x="22.14" y="20.97" width="0.98" height="1.98" style="fill: #fff"/>
+  <rect x="16.65" y="15.48" width="0.98" height="1.98" transform="translate(0.68 33.61) rotate(-90)" style="fill: #fff"/>
+</svg>

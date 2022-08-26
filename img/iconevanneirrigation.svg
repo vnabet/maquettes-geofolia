@@ -1,0 +1,15 @@
+<svg id="aace16ca-c330-4878-bcf3-bc22c137ef2a" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>map-80-IconeVanneIrrigation</title>
+  <g>
+    <rect y="17.89" width="6.27" height="6.07" style="fill: #1a171b"/>
+    <rect x="6.27" y="15.55" width="19.8" height="10.74" rx="1.24" style="fill: #1a171b"/>
+    <rect x="26.07" y="17.89" width="5.93" height="6.07" style="fill: #1a171b"/>
+    <line x1="15.88" y1="17.89" x2="15.88" y2="10.19" style="fill: #fff;stroke: #1a171b;stroke-miterlimit: 10;stroke-width: 2.76312698291122px"/>
+  </g>
+  <line x1="6.1" y1="9.2" x2="25.6" y2="9.2" style="fill: none;stroke: #1a171b;stroke-linecap: round;stroke-linejoin: round;stroke-width: 3px"/>
+  <g>
+    <circle cx="15.88" cy="9.2" r="4.22" style="fill: #1a171b"/>
+    <circle cx="5.88" cy="9.2" r="2.76" style="fill: #1a171b"/>
+    <circle cx="25.88" cy="9.2" r="2.76" style="fill: #1a171b"/>
+  </g>
+</svg>

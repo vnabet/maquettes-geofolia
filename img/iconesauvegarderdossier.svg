@@ -1,0 +1,13 @@
+<svg id="a007d9d8-acae-468a-a31f-7f41cae54cca" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>folder-49-IconeSauvegarderDossier</title>
+  <g>
+    <path d="M30.78,30H17.24A1.23,1.23,0,0,1,16,28.76V15.22A1.23,1.23,0,0,1,17.24,14H28.5a1.23,1.23,0,0,1,.87.36l2.28,2.28a1.24,1.24,0,0,1,.36.87V28.76A1.23,1.23,0,0,1,30.78,30Z" style="fill: #007bbd"/>
+    <path d="M17.24,12H27.92V6.5A1.5,1.5,0,0,0,26.42,5H9.51A1.5,1.5,0,0,1,8,3.5,1.5,1.5,0,0,0,6.51,2h-5A1.5,1.5,0,0,0,0,3.5v18A1.5,1.5,0,0,0,1.51,23H14V15.22A3.23,3.23,0,0,1,17.24,12Z" style="fill: #fac262"/>
+    <rect x="20.01" y="14.99" width="8" height="5" style="fill: #fff"/>
+  </g>
+  <rect x="25.01" y="15.99" width="2" height="3" style="fill: #007bbd"/>
+  <path d="M29.37,14.35l2.28,2.28a1.18,1.18,0,0,1,.27.4,1.18,1.18,0,0,0-.27-.4Z" style="fill: none"/>
+  <line x1="20.51" y1="22.49" x2="27.51" y2="22.49" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-linejoin: round"/>
+  <line x1="20.51" y1="24.49" x2="27.51" y2="24.49" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-linejoin: round"/>
+  <line x1="20.51" y1="26.49" x2="27.51" y2="26.49" style="fill: none;stroke: #fff;stroke-linecap: round;stroke-linejoin: round"/>
+</svg>

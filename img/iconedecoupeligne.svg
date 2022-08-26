@@ -1,0 +1,13 @@
+<svg id="a208eda8-8747-43c0-9745-569ff173d02c" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>field-94-IconeDecoupeLigne</title>
+  <polygon points="15.17 30.57 30.19 8.21 12.89 1.38 1.42 18.17 15.17 30.57" style="fill: #fff;stroke: #77787a;stroke-miterlimit: 10"/>
+  <polyline points="10 5.61 1.42 18.17 15.17 30.57 18.25 25.98" style="fill: #669e3e;stroke: #516d53;stroke-miterlimit: 10"/>
+  <g>
+    <line x1="11" y1="4.61" x2="19.25" y2="24.98" style="fill: #fff"/>
+    <g>
+      <line x1="11" y1="4.61" x2="11.37" y2="5.54" style="fill: none;stroke: #77787a;stroke-miterlimit: 10"/>
+      <line x1="11.77" y1="6.51" x2="18.68" y2="23.57" style="fill: none;stroke: #77787a;stroke-miterlimit: 10;stroke-dasharray: 2.1031463146209717,1.0515731573104858"/>
+      <line x1="18.88" y1="24.06" x2="19.25" y2="24.98" style="fill: none;stroke: #77787a;stroke-miterlimit: 10"/>
+    </g>
+  </g>
+</svg>

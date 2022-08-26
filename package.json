@@ -1,0 +1,19 @@
+{
+  "name": "geofolia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./scripts/build",
+    "dev": "node ./scripts/dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.14.48"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.5"
+  }
+}

@@ -1,0 +1,12 @@
+<svg id="ba364c66-e7e3-4227-875c-02b9eaa563f4" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="a248b48e-678d-4185-a4b8-437f37832db0" data-name="Dégradé sans nom 7" x1="16" y1="-0.1" x2="16" y2="32.39" gradientUnits="userSpaceOnUse">
+      <stop offset="0.43" stop-color="#409831"/>
+      <stop offset="0.59" stop-color="#41942e"/>
+      <stop offset="1" stop-color="#428e29"/>
+    </linearGradient>
+  </defs>
+  <title>map-71-IconePunaiseVert</title>
+  <path d="M16,0A11.76,11.76,0,0,0,5.53,17.12c.2.39,1.09,1.73,1.09,1.73L16,32l9.38-13.17s.89-1.34,1.09-1.73A11.76,11.76,0,0,0,16,0Zm0,19.91a8.15,8.15,0,1,1,8.15-8.15A8.15,8.15,0,0,1,16,19.89Z" style="fill: url(#a248b48e-678d-4185-a4b8-437f37832db0)"/>
+  <circle cx="16" cy="11.74" r="8.15" transform="translate(4.06 27.6) rotate(-89.29)" style="fill: #fff"/>
+</svg>

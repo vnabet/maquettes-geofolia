@@ -1,0 +1,22 @@
+<svg id="bd802c24-51f7-4e10-b1b2-e43eac40dd62" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>field-78-IconeSuppressionCreerTrou</title>
+  <g>
+    <path d="M25.25,12.61a8.08,8.08,0,0,1,1.31.11l2.87-4.27L13.08,2l-11,16.1,13,11.72,2.7-4a8.61,8.61,0,0,1-1.25-4.47A8.73,8.73,0,0,1,25.25,12.61Z" style="fill: #e3e4e4"/>
+    <path d="M15.17,30.57,1.42,18.17,12.89,1.38l17.3,6.83-3.09,4.6.52.13L31,8,12.71.76.76,18.25,15.27,31.33l3.11-4.64c-.11-.14-.21-.28-.31-.43Z" style="fill: #afafaf"/>
+    <path d="M12.89,1.38,1.42,18.17l13.75,12.4,2.9-4.31a4.43,4.43,0,0,1-.29-.46l-2.7,4-13-11.72L13.08,2,29.43,8.45l-2.87,4.27a4.68,4.68,0,0,1,.54.09l3.09-4.6Z" style="fill: #afafaf"/>
+  </g>
+  <rect x="11" width="4" height="4" style="fill: #afafaf"/>
+  <rect x="28" y="6.44" width="4" height="4" style="fill: #afafaf"/>
+  <rect x="13" y="28" width="4" height="4" style="fill: #afafaf"/>
+  <rect y="16.39" width="4" height="4" style="fill: #afafaf"/>
+  <path d="M25.25,28.05A6.72,6.72,0,1,1,32,21.33a6.72,6.72,0,0,1-6.73,6.72" style="fill: #b71236"/>
+  <polygon points="12.96 8.33 7.67 16.15 12 19.4 17.96 10.46 12.96 8.33" style="fill: #fff;stroke: #516d53;stroke-miterlimit: 10;stroke-width: 0.5px"/>
+  <g>
+    <line x1="22.35" y1="18.48" x2="28.35" y2="24.48" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+    <line x1="28.35" y1="18.48" x2="22.35" y2="24.48" style="fill: none;stroke: #fff;stroke-miterlimit: 10;stroke-width: 1.5px"/>
+  </g>
+  <rect x="11.96" y="7.42" width="2" height="2" style="fill: #516d53"/>
+  <rect x="16.92" y="9.46" width="2" height="2" style="fill: #516d53"/>
+  <rect x="10.96" y="18.4" width="2" height="2" style="fill: #516d53"/>
+  <rect x="6.63" y="15.15" width="2" height="2" style="fill: #516d53"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="a8557050-1365-453b-96f9-74fcd26b5a7f" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>field-43-IconeCalculSPE</title>
+  <path d="M25.25,28.05A6.72,6.72,0,1,1,32,21.33a6.72,6.72,0,0,1-6.73,6.72" style="fill: #808183"/>
+  <rect x="21.47" y="17.5" width="7.45" height="1.81" rx="0.91" style="fill: #fff"/>
+  <circle cx="22.37" cy="21.48" r="0.87" style="fill: #fff"/>
+  <circle cx="25.31" cy="21.48" r="0.87" style="fill: #fff"/>
+  <circle cx="28.25" cy="21.48" r="0.87" style="fill: #fff"/>
+  <circle cx="22.37" cy="24.3" r="0.87" style="fill: #fff"/>
+  <circle cx="25.31" cy="24.3" r="0.87" style="fill: #fff"/>
+  <circle cx="28.25" cy="24.3" r="0.87" style="fill: #fff"/>
+  <polygon points="9.78 5.97 9.78 5.97 9.78 5.97 9.78 5.97" style="fill: #b71236"/>
+  <g>
+    <path d="M25.25,12.61a8.58,8.58,0,0,1,1.35.11l3.78-5.53L13.56,1.5,10.23,6.2l12.94,6.67A8.41,8.41,0,0,1,25.25,12.61Z" style="fill: #b71236"/>
+    <path d="M13.56,1.5,30.38,7.19,26.6,12.72a8.89,8.89,0,0,1,1,.23l4.29-6.28L13.18.31,9.37,5.68l.35.25.51.27Z" style="fill: #790027"/>
+    <path d="M15.08,29.81l-13-11.72L10.23,6.2l0,.06L9.78,6h0l-.06,0-.38-.21L.76,18.25,15.27,31.33l3.12-4.63a10.61,10.61,0,0,1-.61-.88Z" style="fill: #77787a"/>
+    <polygon points="9.78 5.97 10.19 6.26 10.23 6.2 9.72 5.93 9.78 5.97 9.78 5.97" style="fill: #77787a"/>
+    <path d="M23.17,12.87,10.23,6.2,2.08,18.09l13,11.72,2.7-4a8.7,8.7,0,0,1,5.39-12.95Z" style="fill: #a9cd82"/>
+  </g>
+</svg>

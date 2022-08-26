@@ -1,0 +1,11 @@
+<svg id="af1e6630-522f-4f6f-80a8-c2140ac0bce3" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>places-11-IconeEolienne</title>
+  <circle cx="16.83" cy="12.48" r="2.05" style="fill: gray"/>
+  <path d="M15.46,27.6V16a3.87,3.87,0,0,0,1.28.23A3.79,3.79,0,0,0,18,16V27.6Z" style="fill: gray"/>
+  <g>
+    <path d="M16.83,8.83A3.61,3.61,0,0,1,17.92,9l2.67-7.76V.16L19.43.7,15.85,6.11l.83,2.73Z" style="fill: #b3b3b3"/>
+    <path d="M22.76,15.11l-2.89-.67a3.65,3.65,0,0,1-.73.84l5.37,6.19.94.54.12-1.28Z" style="fill: #b3b3b3"/>
+    <path d="M13.25,13.16,5,14.75l-.94.55L5.15,16l5.94.37,2.38-2.56A3.86,3.86,0,0,1,13.25,13.16Z" style="fill: #b3b3b3"/>
+  </g>
+  <path d="M20.12,32H13.37V29.49a1.09,1.09,0,0,1,1.09-1.09H19a1.09,1.09,0,0,1,1.09,1.09V32Z" style="fill: gray"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg id="f60f6ed4-eb2f-4634-a5e2-b2926dab09cb" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>field-75-IconeCreationTraceParcelle</title>
+  <path d="M24.06,10.08,10.88,4.88l-.74-.3-.45.66L1,18l-.5.73.65.58,10.48,9.45.86.77.64-.95,3-4.52L12.29,13.4l12.23-1.83.7-1Z" style="fill: #fff;stroke: #77787a;stroke-miterlimit: 10;stroke-dasharray: 2,1"/>
+  <line x1="11.79" y1="8.57" x2="9.24" y2="8.57" style="fill: none;stroke: #77787a;stroke-miterlimit: 10"/>
+  <line x1="9.48" y1="12.77" x2="6.37" y2="12.77" style="fill: none;stroke: #77787a;stroke-miterlimit: 10"/>
+  <line x1="8.91" y1="16.97" x2="3.5" y2="16.97" style="fill: none;stroke: #77787a;stroke-miterlimit: 10"/>
+  <line x1="14.83" y1="21.17" x2="5.67" y2="21.17" style="fill: none;stroke: #77787a;stroke-miterlimit: 10"/>
+  <line x1="13.56" y1="25.37" x2="10.3" y2="25.37" style="fill: none;stroke: #77787a;stroke-miterlimit: 10"/>
+  <g>
+    <path d="M16.33,3.27,7.11,16.75,18.34,26.88l.23-.33a8.71,8.71,0,0,1,6.65-14.36,8.92,8.92,0,0,1,2.7.43l2.54-3.77Z" style="fill: #a9cd82"/>
+    <path d="M18.34,26.88,7.11,16.75,16.33,3.27,30.46,8.85l-2.54,3.77a9.9,9.9,0,0,1,.95.38L32,8.38,16,2,13.6,5.49,13,6.33,5.79,16.91l9.09,8.19.75.68,2.9,2.61.75-1.11a8.16,8.16,0,0,1-.71-.73Z" style="fill: #516d53"/>
+  </g>
+  <path d="M25.22,27.64a6.73,6.73,0,1,1,6.72-6.73A6.74,6.74,0,0,1,25.22,27.64Z" style="fill: #5bab26"/>
+  <polygon points="21.01 20.11 21.01 21.71 25.42 21.71 25.42 24.92 29.43 20.91 25.42 16.91 25.42 20.11 21.01 20.11" style="fill: #fff"/>
+</svg>

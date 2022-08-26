@@ -1,0 +1,21 @@
+<svg id="ec3c580d-fce6-4edc-b9cb-c18a3eb0379a" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>time-81-IconeIntervPrevu</title>
+  <g>
+    <path d="M2.84,28.5A2.34,2.34,0,0,1,.5,26.16V10.5h30V26.16a2.34,2.34,0,0,1-2.34,2.34Z" style="fill: #fff"/>
+    <path d="M30,11V26.16A1.84,1.84,0,0,1,28.16,28H2.84A1.84,1.84,0,0,1,1,26.16V11H30m1-1H0V26.16A2.84,2.84,0,0,0,2.84,29H28.16A2.84,2.84,0,0,0,31,26.16V10Z" style="fill: #868789"/>
+  </g>
+  <path d="M24,2.5a1.5,1.5,0,0,0-3,0v4a1.5,1.5,0,0,0,3,0Z" style="fill: #868789"/>
+  <path d="M10,2.5a1.5,1.5,0,0,0-3,0v4a1.5,1.5,0,0,0,3,0Z" style="fill: #868789"/>
+  <path d="M28.39,5H25s0,0,0,0V6.32A2.63,2.63,0,0,1,22.73,9,2.51,2.51,0,0,1,20,6.5V5s0,0,0,0H11s0,0,0,0V6.32A2.63,2.63,0,0,1,8.73,9,2.51,2.51,0,0,1,6,6.5V5S6,5,6,5H2.6A2.6,2.6,0,0,0,0,7.56V10a10.25,10.25,0,0,1,0,1H31a10.25,10.25,0,0,1,0-1V7.6A2.6,2.6,0,0,0,28.39,5Z" style="fill: #0071bc"/>
+  <rect x="1" y="16" width="29" height="1" style="fill: #b3b3b3"/>
+  <rect x="1" y="22" width="29" height="1" style="fill: #b3b3b3"/>
+  <rect x="6" y="11" width="1" height="17" style="fill: #b3b3b3"/>
+  <rect x="12" y="11" width="1" height="17" style="fill: #b3b3b3"/>
+  <rect x="18" y="11" width="1" height="17" style="fill: #b3b3b3"/>
+  <rect x="24" y="11" width="1" height="17" style="fill: #b3b3b3"/>
+  <g>
+    <path d="M2.6,5A2.6,2.6,0,0,0,0,7.56V10a10.25,10.25,0,0,1,0,1H1V7.57A1.6,1.6,0,0,1,2.6,6H6V5Z" style="fill: #08578e"/>
+    <path d="M31,7.6A2.6,2.6,0,0,0,28.39,5H25V6h3.39A1.61,1.61,0,0,1,30,7.6v.18h0V11h1a10.25,10.25,0,0,1,0-1V7.6Z" style="fill: #08578e"/>
+    <rect x="11" y="5" width="9" height="1" style="fill: #08578e"/>
+  </g>
+</svg>

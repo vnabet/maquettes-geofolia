@@ -1,0 +1,11 @@
+<svg id="a44bb69d-acf3-43f3-aaf0-ab42237a8158" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>equipment-51-IconeSynchroIsa360</title>
+  <path d="M.67,9.78C.86,7.81,1.75,5.87,4,5.64s20.16-2.12,23.88-1c4,1.23,3.49,5.94,3.81,10.89.35,5.4.92,10.24-2.28,11.13s-25-.37-26.58-1.12S0,23.69.11,19.79s.61-10,.56-10" style="fill: #565456;opacity: 0.800999999046326"/>
+  <rect x="3.11" y="7.44" width="24.4" height="15.91" rx="0.77" style="fill: #fff"/>
+  <g>
+    <polygon points="7.51 9.31 13.51 15.31 7.51 15.29 7.51 9.31" style="fill: #40a52b"/>
+    <polygon points="23.51 21.61 17.2 15.29 23.51 15.29 23.51 21.61" style="fill: #40a52b"/>
+    <path d="M21.65,15.29a6.09,6.09,0,0,1-12.11.93" style="fill: none;stroke: #40a52b;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <path d="M21.58,14.37A6.09,6.09,0,0,0,11.25,11a5.4,5.4,0,0,0-.78.95L10,13.45" style="fill: none;stroke: #40a52b;stroke-miterlimit: 10;stroke-width: 2px"/>
+  </g>
+</svg>

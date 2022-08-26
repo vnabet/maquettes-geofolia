@@ -1,0 +1,23 @@
+<svg id="eebe308c-b94c-4ad6-bcad-e97874e97183" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <title>time-73-4ED0367</title>
+  <g>
+    <path d="M2.84,29.49A2.33,2.33,0,0,1,.5,27.16V11.5h30V27.16a2.33,2.33,0,0,1-2.33,2.33Z" style="fill: #fff"/>
+    <path d="M30,12V27.16A1.83,1.83,0,0,1,28.17,29H2.84A1.84,1.84,0,0,1,1,27.16V12H30m1-1H0V27.16A2.83,2.83,0,0,0,2.84,30H28.17A2.82,2.82,0,0,0,31,27.16V11Z" style="fill: #868789"/>
+  </g>
+  <path d="M24,3.49a1.5,1.5,0,1,0-3,0v4a1.5,1.5,0,1,0,3,0Z" style="fill: #868789"/>
+  <path d="M10,3.49a1.5,1.5,0,1,0-3,0v4a1.5,1.5,0,0,0,3,0Z" style="fill: #868789"/>
+  <path d="M28.4,6H25a0,0,0,0,0,0,0V7.31A2.61,2.61,0,0,1,22.73,10,2.5,2.5,0,0,1,20,7.49V6s0,0,0,0H11a0,0,0,0,0,0,0V7.31A2.61,2.61,0,0,1,8.73,10,2.5,2.5,0,0,1,6,7.49V6S6,6,6,6H2.6A2.61,2.61,0,0,0,0,8.55V11a9.66,9.66,0,0,1,0,1H31c0-1,0-1,0-1V8.6A2.61,2.61,0,0,0,28.4,6Z" style="fill: #b9251c"/>
+  <rect x="1" y="17" width="29" height="1" style="fill: #b3b3b3"/>
+  <rect x="1" y="23" width="29" height="1" style="fill: #b3b3b3"/>
+  <rect x="6" y="12" width="1" height="17" style="fill: #b3b3b3"/>
+  <rect x="12" y="12" width="1" height="17" style="fill: #b3b3b3"/>
+  <rect x="18" y="12" width="1" height="17" style="fill: #b3b3b3"/>
+  <rect x="24" y="12" width="1" height="17" style="fill: #b3b3b3"/>
+  <rect x="18" y="17" width="7" height="7" style="fill: #0071bc"/>
+  <rect x="6" y="23" width="7" height="7" style="fill: #0071bc"/>
+  <g>
+    <path d="M2.6,6A2.61,2.61,0,0,0,0,8.55V11a9.66,9.66,0,0,1,0,1H1a9.74,9.74,0,0,0,0-1.08V8.57A1.62,1.62,0,0,1,2.6,7H6V6Z" style="fill: #881e17"/>
+    <path d="M31,8.6A2.61,2.61,0,0,0,28.4,6H25V7h3.4A1.61,1.61,0,0,1,30,8.6v.17h0V12h1c0-1,0-1,0-1V8.6Z" style="fill: #881e17"/>
+    <rect x="11" y="5.99" width="9" height="1" style="fill: #881e17"/>
+  </g>
+</svg>
